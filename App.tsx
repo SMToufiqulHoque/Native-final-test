@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <SafeAreaView style={backgroundStyle}>
-      <Text>Hello world</Text>
+      <Text>Hello world!!!</Text>
     </SafeAreaView>
   );
 };
